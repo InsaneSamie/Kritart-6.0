@@ -8,5 +8,7 @@
     background-image: linear-gradient(rgba(4,9,300.7),rgba(4,9,300.7)), url(images/ban.png);
     background-position: center;
     background-size: cover;
+    background-color: blue;
     position: relative;
+    test-align: center;
 }
