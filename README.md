@@ -1,3 +1,5 @@
 # Kritart-6.0
 
-![ban](https://user-images.githubusercontent.com/101932418/159151741-b6eb5bbb-baa3-4704-b892-1bc5f1094be3.png)
+### 1.Chaitre is a modern, adaptable and extremely flexible theme for charities, donations and fundraisers.
+
+**Chaitre is a modern, adaptable and extremely flexible theme for charities, donations and fundraisers.**
