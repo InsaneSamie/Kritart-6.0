@@ -1,2 +1,2 @@
-# Kritart-6.0
+# Kritarth-6.0
  
